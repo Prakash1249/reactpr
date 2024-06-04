@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    width: 100%;
+
+}
+header{
+    /* border: 2px solid red; */
+    width: 50%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.luffy{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    box-shadow: 2px 5px 2px black;
+}
+.luffy img{
+    height: 400px;
+}
+.sukuna{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    box-shadow: 2px 5px 2px black;
+}
+.sukuna img{
+    height: 400px;
+}
+.itachi{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    box-shadow: 2px 5px 2px black;
+}
+.itachi img{
+    height: 400px;
+}
+.toji{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    box-shadow: 2px 5px 2px black;
+}
+.toji img{
+    height: 400px;
+}
+.me{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    box-shadow: 2px 5px 2px black;
+}
+.me img{
+    height: 400px;
+    background-image: url(C:\prakash\reactjs\prakash\src\images\me3.jpg);
+    background-position:70%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.me1{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    box-shadow: 2px 5px 2px black;
+}
+.me1 img{
+    height: 400px;
+    background-image: url(C:\prakash\reactjs\prakash\src\images\me.jpg);
+    background-position: 70%;
+}
